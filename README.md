@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tiago 👋
 
-<!--
-**SlashDash07/SlashDash07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of Coimbra focused on **cybersecurity, software and Linux-based systems**.
 
-Here are some ideas to get you started:
+I build **security tools, automation scripts and AI-assisted workflows** using mainly **Python, C and Linux**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m focused on
+- Cybersecurity and AppSec
+- Security automation and tooling
+- AI-assisted analysis workflows
+- Python scripting and Linux
+- Systems programming fundamentals
+
+## Featured projects
+- Learning the basics yet :)
+
+## Tech stack
+**Languages:** Python, C, Bash  
+**Focus:** Cybersecurity, AppSec, Automation, Linux  
+**Currently learning:** Linux Basics, Pentesting Basics
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/tiagopereira-cybera7366/
