@@ -11,8 +11,8 @@ Computer Engineering student at the University of Coimbra focused on **cybersecu
 - Learning the basics yet :)
 
 ## Tech stack
-**Languages:** Python, C, Bash, Java 
-**Focus:** Cybersecurity, AppSec, Automation
+- **Languages:** Python, C, Bash, Java 
+- **Focus:** Cybersecurity, AppSec, Automation
 
 ## Connect with me
 - LinkedIn: https://www.linkedin.com/in/tiagopereira-cybera7366/
